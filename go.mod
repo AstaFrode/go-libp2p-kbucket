@@ -3,7 +3,7 @@ module github.com/AstaFrode/go-libp2p-kbucket
 go 1.18
 
 require (
-	github.com/AstaFrode/go-libp2p v0.26.4-0.20231025094835-732a19c0bd0b
+	github.com/AstaFrode/go-libp2p v0.26.4-0.20231113143058-912296254d44
 	github.com/ipfs/go-ipfs-util v0.0.2
 	github.com/ipfs/go-log v1.0.4
 	github.com/libp2p/go-cidranger v1.1.0

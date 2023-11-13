@@ -1,5 +1,5 @@
-github.com/AstaFrode/go-libp2p v0.26.4-0.20231025094835-732a19c0bd0b h1:4P16QVGgl7PulDFuDe67fUdPX4vls+/NL5yhuKHkv9k=
-github.com/AstaFrode/go-libp2p v0.26.4-0.20231025094835-732a19c0bd0b/go.mod h1:RO0J/gHHqO0Wq16nM2Yv0byy9Z9cDBJ8VTzulots0kA=
+github.com/AstaFrode/go-libp2p v0.26.4-0.20231113143058-912296254d44 h1:+cpQP/8OZDq7X5y45KsHC3Ndowwh0QFZImqXNLSVK1w=
+github.com/AstaFrode/go-libp2p v0.26.4-0.20231113143058-912296254d44/go.mod h1:IwZXqQxpbAHV7orIa90XeCUGMKtzJnopON5gS1Avs/U=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
 github.com/benbjohnson/clock v1.1.0/go.mod h1:J11/hYXuz8f4ySSvYwY0FKfm+ezbsZBKZxNJlLklBHA=
 github.com/benbjohnson/clock v1.3.0 h1:ip6w0uFQkncKQ979AypyG0ER7mqUSBdKLOgAle/AT8A=
